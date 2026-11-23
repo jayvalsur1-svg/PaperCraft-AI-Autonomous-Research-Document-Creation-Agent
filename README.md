@@ -1,0 +1,2 @@
+# PaperCraft-AI-Autonomous-Research-Document-Creation-Agent
+PaperCraft AI is an advanced multi-agent document generation system powered by LangGraph, FastAPI, ChatGroq, and Tavily. It autonomously analyzes a topic, conducts targeted web research, formulates a section-by-section document outline, spawns parallel worker agents to draft each section, and compiles the result into a styled PDF research report.
